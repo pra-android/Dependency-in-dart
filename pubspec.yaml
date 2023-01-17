@@ -1,0 +1,8 @@
+name: my_app
+environment:
+  sdk: '>=1.19.0 <3.0.0'
+dependencies:
+    intl: ^0.18.0
+    
+
+
