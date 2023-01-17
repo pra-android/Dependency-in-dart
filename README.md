@@ -1,4 +1,4 @@
-# Dependency-in-dart
+# DEPENDENCY IN DART
 It is the collection of program /projects about dependency management in dart.It is also one of the most important and useful tool in Flutter framework.
 
 ## TOPICS COVERED
